@@ -4,7 +4,7 @@
  * main - prints alpha in lower case
  * Return: Always 0
  */
-int main(void) :
+int main(void)
 {
 	char lc;
 
@@ -14,3 +14,4 @@ int main(void) :
 	}
 	putchar('\n');
 	return (0);
+}	
