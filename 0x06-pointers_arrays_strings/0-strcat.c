@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio>
+#include <stdio.h>
 /**
  * *_strcat - concatenates two strings
  * @dest: pointer destination
@@ -21,3 +21,4 @@ do {
 
 return (dest);
 }
+
