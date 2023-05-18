@@ -4,7 +4,7 @@
 #include <limits.h>
 
 /**
- * rray_range - creates an array of integers.
+ * array_range - creates an array of integers.
  * @min: minimum value.
  * @max: maximum value.
  *
