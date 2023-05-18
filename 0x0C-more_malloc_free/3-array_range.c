@@ -12,7 +12,7 @@
  * if man > mix, returns NULL.
  * if malloc fails, returns NULL.
  */
-int *array_range(int min, int max);
+int *array_range(int min, int max)
 {
 	int *ar;
 	int i;
